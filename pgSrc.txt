@@ -1,0 +1,258 @@
+<html><head>
+		
+		<title>Menu</title>
+		<script language="JavaScript">
+		<!--
+		 function openprocwin(){
+		 procwin = window.open('PROCESSING_WIN.CFM','procwin','scrollbars=no,location=no,directories=no,menubar=no,toolbar=no,resizeable=no,status=no,width=200,height=180,screenX=400,screenY=400,top=400,left=400')}
+		//-->
+		<!--
+		 function openprocwin2(){
+		 procwin = window.open('PROCESSING2_WIN.CFM','procwin','scrollbars=no,location=no,directories=no,menubar=no,toolbar=no,resizeable=no,status=no,width=200,height=220,screenX=400,screenY=400,top=400,left=400')}
+		 
+		 function 
+		 closeprocwin(){
+		 procwin = window.open('','procwin');
+		 procwin.close()}	 
+		//-->
+		</script>
+	</head>
+	
+	
+
+	<body onload="Javascript:closeprocwin();">	
+		<center><img src="/ONLINE_CARD_OFFICE/IMAGES/idcardHeader.jpg" border="0" usemap="#HeaderMap" alt="">
+
+			<map name="HeaderMap" id="HeaderMap">
+				<area shape="rect" coords="133,3,343,78" href="http://www.idcard.psu.edu/" alt="Penn State id+ Card">
+				<area shape="rect" coords="3,1,120,82" href="http://www.psu.edu/" alt="Penn State Home Page">
+			</map></center>
+	<table width="700" border="0" align="center" cellpadding="0" cellspacing="0">
+	  <tbody><tr>
+		<td align="right" background="/ONLINE_CARD_OFFICE/IMAGES/bckgrnd_repeat_secondary.gif"><a href="LOGOFF_ACT.cfm"><img src="/ONLINE_CARD_OFFICE/IMAGES/logoffsystem.gif" width="127" height="58" border="0"></a></td>
+	  </tr>
+	</tbody></table>
+
+		
+		
+		<table width="760" border="0" align="center" cellpadding="0" cellspacing="0">
+		  <tbody><tr>
+		    <td width="10"><img src="../images/spacer_01.gif" width="29" height="10"></td>
+		    <td>
+		    	<table border="0" cellpadding="0" cellspacing="4" bordercolor="#FFFFFF">
+		         	<tbody><tr>
+						<td align="left"><font size="3" colspan="2" face="Arial, Helvetica, sans-serif">Welcome <strong><font color="#000066">
+			                Rishabh Tiwari.</font></strong>&nbsp;</font>
+						</td>
+					</tr>
+					<tr><td colspan="2" height="3"></td></tr>
+					<tr>
+					<td align="right"><font size="3" face="Arial, Helvetica, sans-serif">Your current balance(s):&nbsp;</font></td>
+					
+					
+								<td align="left" colspan="2"><strong><font color="#000066" face="Arial, Helvetica, sans-serif">Campus Meal Plan:&nbsp;</font></strong>  
+								<strong><font color="#000066">$0.00</font></strong></td>
+							
+						  </tr>
+						  
+						
+								<tr>
+								
+								<td>&nbsp;</td>
+							
+								<td align="left" colspan="2"><strong><font color="#000066" face="Arial, Helvetica, sans-serif">Commuter Meal Plan:&nbsp;</font></strong>  
+								<strong><font color="#000066">$0.00</font></strong></td>
+							
+						  </tr>
+						  
+						
+								<tr>
+								
+								<td>&nbsp;</td>
+							
+								<td align="left" colspan="2"><strong><font color="#000066" face="Arial, Helvetica, sans-serif">LionCash+:&nbsp;</font></strong>  
+								<strong><font color="#000066">$0.24</font></strong></td>
+							
+						  </tr>
+						  
+						
+					
+							
+				</tbody></table>	
+		    </td>
+		    <td><img src="../images/spacer_01.gif" width="29" height="10"></td>
+		  </tr>
+		</tbody></table>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<br>
+		<table width="700" border="0" align="center" cellpadding="0" cellspacing="0">
+		  <tbody><tr>
+		    <td width="700"><table border="0" cellspacing="0" cellpadding="0">
+		      <tbody><tr>
+		        <td><img src="../images/spacer_mealplan.jpg" width="29" height="60"></td>
+		        <td><img src="../images/mealpanadjustments.gif" width="433" height="60"></td>
+		        <td>&nbsp;</td>
+		      </tr>
+		    </tbody></table>            <table width="700" border="0" cellspacing="0" cellpadding="0">
+		        <tbody><tr>
+		          <td width="10"><img src="../images/spacer_01.gif" width="29" height="10"></td>
+		          <td><font size="2" face="Arial, Helvetica, sans-serif">&nbsp;          </font>
+		            <table width="97%" border="1" cellpadding="5" cellspacing="0" bordercolor="#FFFFFF">
+					   <tbody><tr>
+                <td bgcolor="#E1EBF8"><font size="2" face="Arial, Helvetica, sans-serif"><strong><a href="../USER_PAGES/GET_DEPOSIT_INFO_WIN.cfm"><font color="#000066">Deposit
+		                      Funds with Visa, MasterCard, Discover or American Express</font></a></strong> This option
+		                  is for <strong>you</strong> to deposit funds to your own Campus Meal Plan 
+						  and/or LionCash+ account. If you wish to have someone
+		                  else deposit funds to your account,
+		                  please
+                direct them to <a href="../../ONLINE_CARD_OFFICE_NON_AUTH/NON_AUTH_PAGES/GET_ACCNT_HOLDER_INFO_FOR_DEPOSIT_WIN.cfm"><font color="#000066">this site</font></a>.</font></td>
+		              </tr>
+					  <tr>
+		                <td><font size="2" face="Arial, Helvetica, sans-serif"><strong><a href="../USER_PAGES/PAYROLL_DEDUCTION_WIN_mult.cfm"><font color="#000066">Deposit LionCash+
+		                      Funds with Payroll Deduction</font></a></strong> Add or update an amount to be deducted from your Penn State paycheck and automatically deposited
+							   into your (or another's) LionCash+ account.  Now allows a single deduction to be deposited into as many as six different LionCash+ accounts.</font></td>
+		              </tr>
+					  
+					   <tr>
+		                <td bgcolor="#E1EBF8"><font size="2" face="Arial, Helvetica, sans-serif"><a href="../USER_PAGES/SUSPEND_CARD_PRIV_WIN.CFM?pageid=2"><strong><font color="#000066">Deactivate
+		                    a lost or stolen id+ card</font></strong></a> If your id+ card has been lost
+		                    or stolen, you
+		                        should deactivate it immediately.
+		                  When you deactivate your card, your residence hall access,
+		                  meal plan, LionCash+, and fitness membership will automatically be suspended.
+		                  To suspend other features—such as those offered by PNC
+		                  Bank—you must contact the appropriate office.</font></td>
+		              </tr>
+		              <tr>
+		                <td><p><font size="2" face="Arial, Helvetica, sans-serif"><strong><a href="../USER_PAGES/REINSTATE_CARD_PRIV_WIN.cfm?pageid=3"><font color="#000066">Reactivate
+		                        your id+ card</font></a></strong> If you find your card within seven days of deactivating
+		                      it, you may reactivate it online and
+		                    your residence hall access, meal plan, LionCash+, and fitness membership
+		                    will be reinstated. To reinstate other features—such
+		                    as those offered by PNC Bank—you must contact the appropriate
+		                office.</font>                </p></td>
+		              </tr>
+					   <tr>
+		                <td bgcolor="#E1EBF8">
+						<font size="2" face="Arial, Helvetica, sans-serif"><a href="https://www.absecom.psu.edu/eliving/student_pages/my_meal_plan/MEAL_PLAN_CHANGE_WIN.cfm?IDPLUS_REDIRECT=../../ONLINE_CARD_OFFICE/USER_PAGES/PSU_USER_MENU_WIN.cfm"><strong><font color="#000066">Change
+		                  Your Campus Meal Plan</font></strong></a> Change your meal plan for current
+		                  or future semesters. This option is for Campus Meal Plan
+		                holders only.</font></td>
+		              </tr>
+					   <tr>
+		                <td><font size="2" face="Arial, Helvetica, sans-serif"><strong><a href="../USER_PAGES/LC_90DAY_REVIEW_WIN.cfm"><font color="#000066">Review
+		                      Last 90 Days Transactions</font></a></strong></font></td>
+		              </tr>		
+					  <tr>
+		                <td bgcolor="#E1EBF8"><font size="2" face="Arial, Helvetica, sans-serif"><strong><a href="../USER_PAGES/LISTSERV_WIN.cfm"><font color="#000066">Manage 
+		                      Your LionCash+ e-newsletter Subscription</font></a></strong> - Subscribe or update your subscription to our monthly LionCash+ e-newsletter 
+							  and be notified of new LionCash+ program features, new merchant locations, and special discounts.</font></td>
+		              </tr>
+					 	  
+		            
+					
+					  
+		
+		            </tbody></table>
+		          <font size="2" face="Arial, Helvetica, sans-serif">&nbsp;            </font></td>
+		          <td><img src="../images/spacer_01.gif" width="29" height="10"></td>
+		        </tr>
+		      </tbody></table>      
+		    </td>
+		  </tr>
+		  <tr>
+		    <td><img src="../images/spacer_01.gif" width="18" height="40"></td>
+		  </tr>
+		</tbody></table>
+		
+		 <center>
+	<br><br>
+	<table width="100%" border="0" cellspacing="0" cellpadding="5" align="center">
+		<tbody><tr>
+			<td align="center">
+				<p>
+					<font size="1" face="Arial" color="666666">
+						Penn State Auxiliary and Business Services
+					</font>
+				</p>
+				<p>
+					<font size="1" face="Arial" color="666666">
+						Questions about ID+Online System, contact:
+						<br>
+						 at 814-865-7590 or 
+						<a href="mailto:idcard@psu.edu">
+							idcard@psu.edu
+						</a>.
+						<br>
+						<br>
+						Design and content are provided by the Marketing and Communications Office
+						<br>
+						for Auxiliary and Business Services (
+						<a href="mailto:absmarketing@psu.edu">
+							absmarketing@psu.edu
+						</a>
+						).
+						<br><br>    
+						Site functionality, user interaction and technical support are provided by the<br>Information Systems Office
+			   			for Auxiliary and Business Services 
+						(
+						
+                        	<a href="mailto:ABSsupport@psu.edu?subject=ID_PLUS_ONLINE Application Support Request">
+								ABSsupport@psu.edu
+							</a>
+						
+						).
+					</font>
+				</p>
+			</td>
+		</tr>
+		<tr> 
+			<td align="center">
+				<font size="1" face="Arial" color="666666">
+					<a href="http://guru.psu.edu/policies/ad42.html" target="_blank">
+						Nondiscrimination Statement
+					</a> 
+					| 
+					<a href="http://guru.psu.edu/policies/OHR/hr11.html" target="_blank">
+						Equal Opportunity Policy 
+					</a>
+					| 
+					<a href="http://www.abservices.psu.edu/abservices/WebAccessibility.cfm" target="_blank">
+						Accessibility
+					</a> 
+					| 
+					<a href="http://www.psu.edu/ur/copyright.html" target="_blank">
+						Copyright
+					</a> 
+					| 
+					<a href="http://www.psu.edu/ur/privacy.html" target="_blank">
+						Privacy
+					</a>
+					|
+					<a href="http://www.psu.edu/ur/hotline.html" target="_blank">
+						Hotlines
+					</a>
+				</font>
+			</td>
+		</tr>
+		<tr>
+			<td align="center">
+				<font size="1" face="Arial" color="666666">
+					This page was last updated on 
+					04/25/2019 at 2:39 PM
+				</font>
+			</td>
+		</tr>
+	</tbody></table>
+</center>
+	
+
+</body></html>
