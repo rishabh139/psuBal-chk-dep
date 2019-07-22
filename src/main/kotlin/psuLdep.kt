@@ -20,7 +20,7 @@ fun mainDep() {
     dp.findElementByName("btn_submit").submit()
 
     dp.findElementByName("cmb_PLAN_NUM").sendKeys("LionCash+")
-    dp.findElementByName("txt_CC_HOLDER_EMAIL").sendKeys("rishabhtiwari1399@gmail.com")
+    dp.findElementByName("txt_CC_HOLDER_EMAIL").sendKeys("@gmail.com")
     dp.findElementByName("rad_AMOUNT").sendKeys("-1")
     dp.findElementByName("txt_DOLLAR_OTHER").sendKeys("5")
     dp.findElementByName("txt_CENTS_OTHER").sendKeys("01")
@@ -28,12 +28,12 @@ fun mainDep() {
 
     dp.switchTo().alert().accept()
 
-    dp.findElementByName("ssl_first_name").sendKeys("Rishabh")
-    dp.findElementByName("ssl_last_name").sendKeys("Tiwari")
+    dp.findElementByName("ssl_first_name").sendKeys("")
+    dp.findElementByName("ssl_last_name").sendKeys("")
     dp.findElementByName("psu_card_brand").sendKeys("Visa")
-    dp.findElementByName("ssl_account_data").sendKeys("4430-18")
-    dp.findElementByName("ssl_exp_date").sendKeys("0820")
-    dp.findElementByName("ssl_cvv2cvc2").sendKeys("537")
+    dp.findElementByName("ssl_account_data").sendKeys("")
+    dp.findElementByName("ssl_exp_date").sendKeys("")
+    dp.findElementByName("ssl_cvv2cvc2").sendKeys("")
 
     //dp.findElementByName("btnProcess").click()
 
