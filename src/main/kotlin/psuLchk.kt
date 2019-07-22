@@ -22,7 +22,7 @@ fun get_info(): String {
     val wb  = ChromeDriver(chromeOptions)
     wb.get("https://webaccess.psu.edu/?cosign-www.absecom.psu.edu&https://www.absecom.psu.edu/ONLINE_CARD_OFFICE/USER_PAGES/PSU_USER_MENU_WIN.cfm")
     wb.findElementById("login").sendKeys("rpt5177")
-    wb.findElementById("password").sendKeys("IGTS@1220pm")
+    wb.findElementById("password").sendKeys("")
     wb.findElementByName("thebutton").submit()
 
     // export page source code
